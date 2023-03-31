@@ -1,0 +1,16 @@
+baseURL = 'http://example.org/'
+languageCode = 'en-us'
+title = "My Blog"
+theme = "paper"
+
+[params]
+  # color style
+  color = 'linen'                           # linen, wheat, gray, light
+
+  # header social icons
+  github = 'nbaubek'                 # github.com/YOUR_GITHUB_ID
+
+  # home page profile
+  avatar = 'GRAVATAR_EMAIL'                 # gravatar email or image url
+  name = 'YOUR_NAME'
+  bio = 'YOUR_BIO'
