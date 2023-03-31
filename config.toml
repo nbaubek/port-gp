@@ -1,4 +1,4 @@
-baseURL = 'http://nbaubek.github.io/'
+baseURL = 'http://nbaubek.github.io/port-gp/'
 languageCode = 'en-us'
 title = "My Blog"
 theme = "paper"
